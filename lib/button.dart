@@ -1,1 +1,1 @@
-String text = 'Submit';
+String text = 'Submit 1';
